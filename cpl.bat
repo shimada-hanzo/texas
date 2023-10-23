@@ -1,0 +1,1 @@
+g++ game.cpp card.cpp compare.cpp -o game

@@ -1,0 +1,5 @@
+*.exe
+script.txt
+server.cpp
+client.cpp
+/.vscode/
