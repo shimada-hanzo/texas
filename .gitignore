@@ -1,5 +1,5 @@
 *.exe
+*demo.cpp
 script.txt
-server.cpp
-client.cpp
+netcpl.bat
 /.vscode/
